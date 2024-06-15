@@ -1,0 +1,24 @@
+[0.006s] Invoking command in '/home/jboegeholz/introduction-to-ros2/build/my_first_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jboegeholz/introduction-to-ros2/build/my_first_robot -- -j8 -l8
+[0.021s] Invoked command in '/home/jboegeholz/introduction-to-ros2/build/my_first_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jboegeholz/introduction-to-ros2/build/my_first_robot -- -j8 -l8
+[0.036s] Invoking command in '/home/jboegeholz/introduction-to-ros2/build/my_first_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jboegeholz/introduction-to-ros2/build/my_first_robot
+[0.040s] -- Install configuration: ""
+[0.040s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot//urdf
+[0.040s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot//urdf/my_robot.urdf
+[0.040s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot//launch
+[0.041s] -- Installing: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot//launch/display.launch.py
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/ament_index/resource_index/package_run_dependencies/my_first_robot
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/ament_index/resource_index/parent_prefix_path/my_first_robot
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/environment/ament_prefix_path.sh
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/environment/ament_prefix_path.dsv
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/environment/path.sh
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/environment/path.dsv
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/local_setup.bash
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/local_setup.sh
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/local_setup.zsh
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/local_setup.dsv
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/package.dsv
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/ament_index/resource_index/packages/my_first_robot
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/cmake/my_first_robotConfig.cmake
+[0.041s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/cmake/my_first_robotConfig-version.cmake
+[0.042s] -- Up-to-date: /home/jboegeholz/introduction-to-ros2/install/my_first_robot/share/my_first_robot/package.xml
+[0.042s] Invoked command in '/home/jboegeholz/introduction-to-ros2/build/my_first_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jboegeholz/introduction-to-ros2/build/my_first_robot
